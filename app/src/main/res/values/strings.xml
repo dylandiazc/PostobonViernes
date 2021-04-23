@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PostobonViernes</string>
+    <string name="texto_horas">Digite el número de horas:</string>
+    <string name="texto_boton_calcular">Calcular</string>
+</resources>
